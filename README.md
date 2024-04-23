@@ -49,3 +49,6 @@ De "Environment/Cumulative Reward" grafiek toont een stijgende trend in beloning
 15. cd naar je projectfolder
 16. Plak dit commando: ```mlagents-learn Config/CubeAgent.yaml --run-id=CubeAgent --resume``` in de terminal
 17. Navigeer terug naar unity en druk Play, nu zou de jumper moeten jumpen over de obstacels
+
+### Video
+Video is geupload naar [panopto](https://ap.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2da85739-0530-4c0e-ab6e-b15b00df09d7)
